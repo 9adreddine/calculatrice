@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(to right, #e91e63, #3f51b5)
+}
+.button{
+    width: 80px;
+    height: 80px;
+    margin: 0px 0px 0px 0px;
+    font-size: 50px;
+    background: #607d8b;
+}
+.button1{
+    position: absolute;
+    width: 249px;
+    height: 80px;
+    margin: 0px 0px 0px 0px;
+    font-size: 50px;
+    background: #607d8b;
+}
+.button2{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    margin: 0px 0px 0px 169px;
+    font-size: 50px;
+    background: #607d8b;
+}
+.tr_1{
+    margin: 211px 0px 0px 541px;
+}
+.textview{
+    position: absolute;
+    margin: -50px 0px 0px 546px;
+    width: 324px;
+    height: 30px;
+}
